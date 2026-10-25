@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Kết quả và ảnh tạm (sinh viên tự thêm ảnh thật)
+docs/anh_ket_qua/*.txt
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Báo cáo PDF (tự xuất, không commit)
+*.pdf
