@@ -120,14 +120,14 @@ git init
 git add .
 git commit -m "DT083: Hoan thanh cay nhi phan va ba thu tu duyet"
 git branch -M main
-git remote add origin https://github.com/TEN_TAI_KHOAN/DT083_N24DCDT101.git
+git remote add origin https://github.com/trugtran-sys/DT083_N24DCDT101.git
 git push -u origin main
 git rev-parse HEAD  
 ```
 
 Clone kiểm tra:
 ```powershell
-git clone https://github.com/TEN_TAI_KHOAN/DT083_N24DCDT101.git kiem_tra_N24DCDT101
+git clone https://github.com/trugtran-sys/DT083_N24DCDT101.git kiem_tra_N24DCDT101
 cd kiem_tra_N24DCDT101
 git rev-parse HEAD
 py demo.py
@@ -147,6 +147,4 @@ Kết quả được lưu vào `docs/anh_ket_qua/`. Sau đó chụp màn hình t
 
 ---
 
-*Ngày hoàn tất: 25/10/2026*  
-*SHA C: d131fb65e8be2e096f4953d45738500a6a366968*  
-*SHA S: 09f3f3b2ebb9165ad401385fd5f540fe7b3d44c1*
+*Ngày hoàn tất: 31/10/2026*
